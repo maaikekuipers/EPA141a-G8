@@ -65,8 +65,6 @@ The folder is structured as follows:
 │
 ├── README.md                     <- Top-level README for an overview of the project.
 │
-├── Report_EPA141A_G8.pdf  <- Final report and additional analysis documents.
-│
 ├── requirements.txt              <- Contains the list of Python packages needed to run the project.
 ```
 
