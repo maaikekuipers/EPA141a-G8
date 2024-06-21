@@ -7,7 +7,7 @@ Created by: EPAcourse Group
 | Maaike Kuipers        | 4882466        |
 | Brechje Smits         | 6000983        |
 | Cato Martens          | 4799003        |
-| Arnoud                |                |
+| Arnoud van Rooijen    | 5674131        |
 
 ## Introduction
 
